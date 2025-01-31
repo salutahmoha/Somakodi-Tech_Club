@@ -1,0 +1,41 @@
+/* #navbar {
+  border: 1px solid black;
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-lists {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 2rem;
+  margin: 0 2rem;
+}
+
+.logo img {
+  height: 2.5rem;
+}
+
+.nav-lists li {
+  font-size: 1.3rem;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.nav-lists li:hover {
+  color: #13ff00;
+}
+
+.nav-list {
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.nav-list.active {
+  color: #13ff00;
+} */
